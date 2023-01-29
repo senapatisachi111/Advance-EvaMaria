@@ -1,5 +1,5 @@
 import motor.motor_asyncio
-from info import DATABASE_NAME, DATABASE_URI, IMDB, IMDB_TEMPLATE, MELCOW_NEW_USERS, P_TTI_SHOW_OFF, SINGLE_BUTTON, SPELL_CHECK_REPLY, PROTECT_CONTENT
+from info import DATABASE_NAME, DATABASE_URI, IMDB, IMDB_TEMPLATE, MELCOW_NEW_USERS, P_TTI_SHOW_OFF, SINGLE_BUTTON, SPELL_CHECK_REPLY, PROTECT_CONTENT, AUTO_DELETE, MAX_BTN, AUTO_FFILTER, SHORTLINK_API, SHORTLINK_URL, IS_SHORTLINK
 
 class Database:
     
@@ -113,7 +113,10 @@ class Database:
             'imdb': IMDB,
             'spell_check': SPELL_CHECK_REPLY,
             'welcome': MELCOW_NEW_USERS,
-            'template': IMDB_TEMPLATE
+            'template': IMDB_TEMPLATE,
+            'shortlink': SHORTLINK_URL,
+            'shortlink_api': SHORTLINK_API,
+            'is_shortlink': IS_SHORTLINK
         }
         chat = await self.grp.find_one({'id':int(id)})
         if chat:
