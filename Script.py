@@ -16,13 +16,13 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 𝙼𝚈𝚂𝙴𝙻𝙵 : <a href=https://t.me/SNSXTG><b>SNS MOVIES BOT</b></a>\n
-👨‍💻 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : <a href=https://t.me/ABOUT_SNS><b>THE SNS</b></a>\n
-📝 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : ᴘʏʀᴏɢʀᴀᴍ\n
-📚 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 : ᴘʏᴛʜᴏɴ 3\n
-📡 𝙷𝚘𝚜𝚝𝚎𝚍 𝙾𝚗 : VPS\n
-📢 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 : <a href=https://t.me/MOVIESNSERIESSNS2><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🌟 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ᴠ 4.0\n</b></i>"""
+    ABOUT_TXT = """<b>🤖 𝙼𝚈𝚂𝙴𝙻𝙵 : <a href=https://t.me/SNSXTG><b>SNS MOVIES BOT</b></a>
+👨‍💻 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : <a href=https://t.me/ABOUT_SNS><b>THE SNS</b></a>
+📝 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : ᴘʏʀᴏɢʀᴀᴍ
+📚 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 : ᴘʏᴛʜᴏɴ 3
+📡 𝙷𝚘𝚜𝚝𝚎𝚍 𝙾𝚗 : VPS
+📢 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 : <a href=https://t.me/MOVIESNSERIESSNS2><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+🌟 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ᴠ 4.0</b>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟<b>
 » ᒍOIᑎ ᑎOᗯ ~ <a href=https://t.me/MOVIESNSERIESSNS2><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
