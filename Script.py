@@ -16,16 +16,16 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/SNSXTG><b>SNS MOVIES BOT</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/ABOUT_SNS><b>THE SNS</b></a>\n
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : VPS\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/MOVIESNSERIESSNS2><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
+    ABOUT_TXT = """<b><i>🤖 𝙼𝚈𝚂𝙴𝙻𝙵 : <a href=https://t.me/SNSXTG><b>SNS MOVIES BOT</b></a>\n
+👨‍💻 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : <a href=https://t.me/ABOUT_SNS><b>THE SNS</b></a>\n
+📝 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : ᴘʏʀᴏɢʀᴀᴍ\n
+📚 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 : ᴘʏᴛʜᴏɴ 3\n
+📡 𝙷𝚘𝚜𝚝𝚎𝚍 𝙾𝚗 : VPS\n
+📢 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 : <a href=https://t.me/MOVIESNSERIESSNS2><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🌟 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
-» I will Create One Bot For You<b>
-» Contact Me @TEAM_SNS_BOT<b>"""
+» 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟<b>
+» ᒍOIᑎ ᑎOᗯ ~ <a href=https://t.me/MOVIESNSERIESSNS2><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
