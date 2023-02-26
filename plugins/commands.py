@@ -542,7 +542,7 @@ async def save_template(client, message):
     await save_group_settings(grp_id, 'template', template)
     await sts.edit(f"Successfully changed template for {title} to\n\n{template}")
 
-@Client.on_message(filters.command("shortlink"))
+@Client.on_message(filters.command("shortlink") & filters.user(AUTH_USERS))
 async def shortlink(bot, message):
     chat_type = message.chat.type
     if chat_type == enums.ChatType.PRIVATE:
