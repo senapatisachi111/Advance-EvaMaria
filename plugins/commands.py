@@ -542,7 +542,7 @@ async def save_template(client, message):
     await save_group_settings(grp_id, 'template', template)
     await sts.edit(f"Successfully changed template for {title} to\n\n{template}")
 
-@Client.on_message(filters.command("shortlink") & filters.user(ADMINS))
+@Client.on_message(filters.command("shortlink"))
 async def shortlink(bot, message):
     chat_type = message.chat.type
     if chat_type == enums.ChatType.PRIVATE:
@@ -555,7 +555,7 @@ async def shortlink(bot, message):
     data = message.text
     userid = message.from_user.id
     user = await bot.get_chat_member(grpid, userid)
-    if user.status != enums.ChatMemberStatus.ADMINISTRATOR and user.status != enums.ChatMemberStatus.OWNER and str(userid) not in ADMINS:
+    if user.status != enums.ChatMemberStatus.ADMINISTRATOR and user.status != enums.ChatMemberStatus.OWNER and str(userid) not in AUTH_USERS:
         return await message.reply_text("<b>You don't have access to use this command !</b>")
     else:
         pass
